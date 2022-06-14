@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm PremKumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Data Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=premkumar&label=Profile%20views&color=0e75b6&style=flat" alt="premkumar" /> </p>
 
-- 🔭 I’m currently working on **Forest fire prediction using machine learning**
+- 🔭 I’m have worked on 
+-       **Forest fire prediction using Deep Learning**
+-       **Multi Cancer Classification using Deep Learning**
+-       **Classification of Retinal OCT Images using Deep Learning**
+-       **Chat Bot / Voice Assistant using Python**
 
-- 🌱 I’m currently learning **Django,reactnative**
+- 🌱 I’m currently learning **Pyspark,Scala,MySQL**
 
 - 📫 How to reach me **selvapremkumar007@gmail.com**
 
